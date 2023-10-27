@@ -1,0 +1,5 @@
+team: test-team
+members:
+  - email: test@test.co.uk
+repos:
+  - name: test-repo
